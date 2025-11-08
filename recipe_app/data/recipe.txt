@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "name": "Jollof Rice and Chicken",
+    "ingredients": [
+      "Rice",
+      "Tomatoes",
+      "Pepper",
+      "Garlic",
+      "Ginger",
+      "Chicken",
+      "Onions"
+    ],
+    "instructions": [
+      "Boil Water",
+      "Add washed Rice",
+      "Leave for 20 minutes",
+      "Fry your chicken and tomatoes",
+      "Add rice and leave till cooked"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Noodles and Eggs",
+    "ingredients": [
+      "Noodles",
+      "Eggs"
+    ],
+    "instructions": [
+      "Boil Noodles for 5 mins",
+      "Fry Eggs"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Amala and Ewedu",
+    "ingredients": [
+      "Yam Flour",
+      "Ewedu Leaves",
+      "Kpomo"
+    ],
+    "instructions": [
+      "Mix Amala"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Amala and Ewedu",
+    "ingredients": [
+      "Yam Flour",
+      "Ewedu Leaves",
+      "Kpomo"
+    ],
+    "instructions": [
+      "Mix Amala"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Amala and Ewedu",
+    "ingredients": [
+      "Yam Flour",
+      "Ewedu Leaves",
+      "Kpomo"
+    ],
+    "instructions": [
+      "Mix Amala"
+    ]
+  }
+]
